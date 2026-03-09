@@ -1,0 +1,12 @@
+.Navigation-Bar{
+    flex: auto;
+    flex-direction: row;
+    margin-top: 0;
+    margin-bottom: 0;
+    background: #556B2F;
+}
+.List-Bar{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}

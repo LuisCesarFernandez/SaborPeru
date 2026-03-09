@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|c:\\users\\cesar\\source\\repos\\proyectosaborperu\\saborperu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|c:\\users\\cesar\\source\\repos\\proyectosaborperu\\saborperu\\controllers\\platocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|solutionrelative:controllers\\platocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|c:\\users\\cesar\\source\\repos\\proyectosaborperu\\saborperu\\dtos\\plato\\platopatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|solutionrelative:dtos\\plato\\platopatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|c:\\users\\cesar\\source\\repos\\proyectosaborperu\\saborperu\\dtos\\plato\\platoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6E680C-C909-0909-DC50-59A39F510137}|saborperu.csproj|solutionrelative:dtos\\plato\\platoreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T23:28:44.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlatoReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\DTOS\\Plato\\PlatoReadDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\Plato\\PlatoReadDTO.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\DTOS\\Plato\\PlatoReadDTO.cs",
+              "RelativeToolTip": "DTOS\\Plato\\PlatoReadDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T01:36:47.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatoPatchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\DTOS\\Plato\\PlatoPatchDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\Plato\\PlatoPatchDTO.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\DTOS\\Plato\\PlatoPatchDTO.cs",
+              "RelativeToolTip": "DTOS\\Plato\\PlatoPatchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T19:10:52.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatoController.cs",
+              "DocumentMoniker": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\Controllers\\PlatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlatoController.cs",
+              "ToolTip": "C:\\Users\\cesar\\source\\repos\\ProyectoSaborPeru\\saborperu\\Controllers\\PlatoController.cs",
+              "RelativeToolTip": "Controllers\\PlatoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T00:12:32.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

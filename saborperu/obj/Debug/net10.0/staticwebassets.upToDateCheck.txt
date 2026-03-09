@@ -1,0 +1,3 @@
+wwwroot\Image\Platos\ChichaMoradaImg.jpg
+wwwroot\Image\Platos\LimonadaImg.jpg
+wwwroot\Image\Platos\MaracuyaImg.jpg

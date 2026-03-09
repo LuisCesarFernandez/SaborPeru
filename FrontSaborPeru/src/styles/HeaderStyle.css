@@ -1,0 +1,11 @@
+img{
+    max-width: 40px;
+    max-height: 40px;
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    background: #556B2F;
+    margin-bottom: 0;
+}

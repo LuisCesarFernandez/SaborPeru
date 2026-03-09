@@ -1,0 +1,18 @@
+.Footer-Container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    padding: 40px;
+    color: white;
+    background: black;
+}
+
+.Footer-Information{
+    display: flex;
+    flex-direction: column;
+}
+
+.Footer-SocialNetworks{
+    display: flex;
+    flex-direction: row;
+}

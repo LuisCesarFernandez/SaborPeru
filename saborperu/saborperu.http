@@ -1,0 +1,6 @@
+@saborperu_HostAddress = http://localhost:5237
+
+GET {{saborperu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
